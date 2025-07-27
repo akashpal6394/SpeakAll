@@ -1,7 +1,8 @@
-<h1 align="center">✨ Fullstack Chat & Video Calling App ✨</h1>
+<h1 align="center">✨ SpeakAll ✨</h1>
 
-
-## Highlights
+<p align="center">
+  <img src="https://github.com/akashpal6394/SpeakAll/blob/main/generated-image.png" alt="SpeakAll UI Preview" width="800" />
+</p>
 
 - 🌐 Real-time Messaging with Typing Indicators & Reactions  
 - 📹 One-on-One and Group Video Calls with Screen Sharing & Recording  
